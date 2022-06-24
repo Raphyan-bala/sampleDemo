@@ -9,7 +9,7 @@ public class controller {
 	@GetMapping("/hello")
 	public String getHello()
 	{
-		return "hello welcome";
+		return "hello Iam connect my pro to cloud";
 	}
 
 }
